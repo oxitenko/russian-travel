@@ -31,7 +31,7 @@
   }
 }
 
-@media screen and (max-width: 425px), (max-width: 375px), (max-width: 320px) {
+ @media screen and (max-width: 425px), (max-width: 375px), (max-width: 320px) {
   .place {
     grid-template-areas:
     "title"
