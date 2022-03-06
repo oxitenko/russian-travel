@@ -6,14 +6,14 @@
   margin-left: 48px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .header {
     margin-right: 24px;
     margin-left: 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .header {
     padding-top: 16px;
     margin-left: 16px;
